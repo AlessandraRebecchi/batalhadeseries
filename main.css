@@ -1,0 +1,128 @@
+
+body {
+    background-size: cover;
+    font-family: "Gabarito", sans-serif;
+    margin: 20px auto;
+    padding: 0 10px;
+    overflow-x: hidden;
+  }
+  
+  .logo {
+    text-align: end;
+  }
+  
+  .logo img {
+    width: 30%;
+    max-width: 150px;
+    padding-right: 30px;
+  }
+  
+  .logoJogo {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .logoJogo img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .series {
+    max-width: 100%;
+    padding: 0 5%;
+    background-color: rgba(0, 0, 0, 0.7);
+    box-sizing: border-box;
+  }
+  
+  .conteudo-jogo {
+    background: rgba(58, 59, 60, 0.7);
+    box-shadow: 0 0 5px #ff1b7b;
+    margin: 30px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .container {
+    max-width: 100%;
+    padding: 0 5%;
+    box-sizing: border-box;
+  }
+  
+  
+  .team {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    padding: 0 5%;
+    justify-content: center;
+  }
+  
+  h2, p {
+    color: #ff1b7b;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f1c7d9;
+    padding: 10px;
+  }
+  
+  h1 {
+    color: #fff;
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 20px auto;
+    display: block;
+    border: none;
+    background: #ff1b7b;
+    color: #fff;
+  }
+  
+  button:hover {
+    background-color: #1ABC9C;
+    cursor: grab;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #ff1b7b;
+    padding: 10px;
+    color: #fff;
+  }
+  
+  @media (max-width: 768px) {
+    .logo {
+      text-align: center;
+    }
+  
+    .logo img {
+      width: 60%;
+      padding-right: 0;
+    }
+  
+    .series {
+      padding: 0 10px;
+    }
+  
+    .conteudo-jogo {
+      margin: 20px 10px;
+      padding: 10px;
+    }
+  
+    .team {
+      padding: 0 5%;
+      justify-content: center;
+    }
+
+    .container {
+      padding: 0 10px;
+    }
+  }
+  
+  
