@@ -1,23 +1,23 @@
 let personagensPossiveis = {
-    "Tókio": "images/tokio.jpg",
-    "Rio": "images/rio.jpg",
-    "Nairóbi": "images/nairobi.jpg",
-    "Berlim": "images/berlim.jpg",
-    "Professor": "images/professor.jpg",
-    "Lisboa": "images/lisboa.jpg"
+    "Tókio": "Images/tokio.jpg",
+    "Rio": "Images/rio.jpg",
+    "Nairóbi": "Images/nairobi.jpg",
+    "Berlim": "Images/berlim.jpg",
+    "Professor": "Images/professor.jpg",
+    "Lisboa": "Images/lisboa.jpg"
 };
 
 let viloesPossiveis = {
-    "Damon": "images/damon.jpg",
-    "Stefan": "images/stefan.jpg",
-    "Elena": "images/elena.jpg",
-    "Caroline": "images/caroline.jpg",
-    "Bonnie": "images/bonnie.jpg",
-    "Katerina": "images/katerina.jpg",
-    "Enzo": "images/enzo.jpg",
-    "Tyler": "images/tyler.jpg",
-    "Klaus": "images/klaus.jpg",
-    "Rebeka": "images/rebeka.jpg"
+    "Damon": "Images/damon.jpg",
+    "Stefan": "Images/stefan.jpg",
+    "Elena": "Images/elena.jpg",
+    "Caroline": "Images/caroline.jpg",
+    "Bonnie": "Images/bonnie.jpg",
+    "Katerina": "Images/katerina.jpg",
+    "Enzo": "Images/enzo.jpg",
+    "Tyler": "Images/tyler.jpg",
+    "Klaus": "Images/klaus.jpg",
+    "Rebeka": "Images/rebeka.jpg"
 };
 
 let personagem = [];
